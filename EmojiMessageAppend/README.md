@@ -1,4 +1,4 @@
-# ReplayMod
+# EmojiMessageAppend
 A plugin thats appends your messages with some emoji.
 
 <div align="center">
